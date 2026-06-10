@@ -1,0 +1,21 @@
+# Credenciales
+.env
+
+# Compilados
+build/
+dist/
+*.class
+
+# NetBeans
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+.dist/
+
+# Logs y archivos de sesión
+carrito.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
