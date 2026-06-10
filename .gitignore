@@ -19,3 +19,13 @@ carrito.txt
 # OS
 .DS_Store
 Thumbs.db
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Documentación interna
+DOCUMENTACION_TECNICA.md
+
+# Temporales del script
+/tmp/sources.txt
